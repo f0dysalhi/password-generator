@@ -1,2 +1,8 @@
-# password-generator
-Creates passwords by typing in your personal information to create a password that matches you with or without your personal information 
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/892236425209217054/892547687373758484/unknown.png">  
+</p>
+
+<h1 align="center">PasswordGenerator</h1>
+<p align="center">
+  Python wordlist generator
+</p>
