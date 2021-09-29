@@ -7,7 +7,7 @@
   Python wordlist generator
 </p>
 
-**Run it with cmd 
+Run it with cmd 
 
 
-python passwordgen.py**
+python passwordgen.py
