@@ -6,3 +6,6 @@
 <p align="center">
   Python wordlist generator
 </p>
+
+**Run it with cmd **
+python passwordgen.py
